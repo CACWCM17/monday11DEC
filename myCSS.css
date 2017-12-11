@@ -2,10 +2,8 @@
 
 /**/
 
-@@media query {
-  body {
-    color: red;
-  }
+ul {
+  font-size: 2em;
 }
 
 head {
