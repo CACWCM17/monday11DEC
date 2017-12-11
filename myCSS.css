@@ -2,6 +2,12 @@
 
 /**/
 
+@@media query {
+  body {
+    color: red;
+  }
+}
+
 head {
   color: green;
 }
