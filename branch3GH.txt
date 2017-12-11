@@ -3,3 +3,4 @@ line2 adding some text
 line 4 updating with more text
 line 5 actually line 4 updated
 line 6 updated onGitHub
+line 6 - the right one 
