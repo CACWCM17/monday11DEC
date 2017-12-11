@@ -1,2 +1,4 @@
 this is just a comment on branch3onGH
 line2 adding some text
+
+line 4 updating with more text
